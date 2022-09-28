@@ -9,3 +9,5 @@ I first tried to just find all the contours on the image and see which ones were
 
 ## What libraries are used
 opencv / numpy
+
+![answer](https://github.com/jerluo/perception-challenge-solution/blob/main/answer.png?raw=true)
